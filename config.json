@@ -1,0 +1,10 @@
+{
+  "port":4890,
+  "portSSL":4891,
+  "portAsync":4892,
+  "hostName":"localhost",
+  "domainName":"localhost",
+  "serverEnabled":true,
+  "serverSSLEnabled":true,
+  "serverAsyncEnabled":true
+}
